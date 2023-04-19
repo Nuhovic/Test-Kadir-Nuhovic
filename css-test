@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="test.css">
+    <script src="https://kit.fontawesome.com/172a4c2364.js" crossorigin="anonymous"></script>
+</head>
+
+<body>
+    <header>
+        <div class="nav">
+            <div class="levi">
+                <a>Appland</a>
+            </div>
+            <div class="desni">
+                <a>Home</a>
+                <a>App Features</a>
+                <a>Gallery</a>
+                <a>Pricing</a>
+                <a>F.A.Q</a>
+                <a>Drop Down</a>
+                <a>Contact</a>
+                <button>Get Started</button>
+
+            </div>
+        </div>
+    </header>
+
+    <main>
+        
+            <div class="left">
+                <img src="https://raw.githubusercontent.com/dzenankosuta/it-camp-1-grupa/master/HTML-CSS/Test/details-1.png" alt="">
+            </div>
+            <div class="right">
+                <div class="prvi">
+                    <h1>Voluptatem dignissimos provident quasi corposis volutates sit assumenada</h1>
+                </div>
+                <div class="drugi">
+                    <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Incidunt consectetur rerum porro architecto neque iste pariatur inventore. Tempore, pariatur!</p></div>
+            </div>
+            <div class="treci">
+                <div class="ikona">
+                    
+                </div>
+            </div>
+
+    </main>
+</body>
+
+</html>
