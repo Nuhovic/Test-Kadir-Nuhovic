@@ -1,0 +1,105 @@
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.nav {
+    width: 100%;
+    height: 80px;
+    box-shadow: 0 0 15px;
+    color: black;
+    display: flex;
+}
+
+
+.levi {
+    width: 35%;
+    height: 80px;
+    display: flex;
+    align-items: center;
+
+
+}
+
+.levi a {
+    font-size: 30px;
+    color: #47536e;
+    margin-left: 100px;
+}
+
+.desni {
+    width: 65%;
+    height: 80px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 30px;
+}
+
+.desni a {
+    font-size: 20px;
+    color: #5777ba;
+    cursor: pointer;
+}
+
+.desni a:hover {
+    opacity: 0.5;
+}
+
+
+.desni button {
+    height: 35px;
+    width: 130px;
+    background-color: #5777ba;
+    cursor: pointer;
+    border-radius: 50px;
+    box-sizing: 0;
+    color: whitesmoke;
+    border: 0;
+}
+
+.desni button:hover {
+    opacity: 0.7;
+}
+
+
+main{
+    width: 100%;
+    height: 80vh;
+    display: flex;
+}
+
+.left{
+    width: 40%;
+    height:100% ;
+}
+
+.left img{
+    width: 100%;
+    height: 80vh;
+    margin-top: 20px;
+}
+
+.right{
+    width: 60%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
+.prvi{
+    width: 80%;
+    height: 150px;
+
+}
+
+.prvi h1{
+    font-size: 50px;
+}
+
+.drugi{
+    width: 90%;
+    height: 70px;
+    font-size: 20px;
+}
